@@ -10,7 +10,7 @@
 <br><br>
 <h2>📊 My Github Stats :</h2><br><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Naolt&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asnakeassefa&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naolt&theme=radical&hide_border=true"/><br><br>
 <br><br>
 

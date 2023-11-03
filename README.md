@@ -7,6 +7,13 @@
 
 - 📫 How to reach me **asnakeassefa28@gmail.com**
 
+<br><br>
+<h2>📊 My Github Stats :</h2><br><br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Naolt&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naolt&theme=radical&hide_border=true"/><br><br>
+<br><br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/asne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/asne" height="30" width="40" /></a>
